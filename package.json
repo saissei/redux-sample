@@ -23,6 +23,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "lint": "npx eslint 'src/**/*.ts{,x}' --fix",
+    "prebuild": "npx eslint 'src/**/*.ts{,x}' --fix",
     "dev": "yarn parcel public/index.html --open",
     "build:dev": "rm -rf dist && yarn parcel build public/index.html -d dist"
   },
