@@ -1,0 +1,35 @@
+{
+  "id": 69704,
+  "postType": "Article",
+  "title": "Webフロントエンドの開発効率を高く保つための考え方",
+  "slug": "e173f75c512e10",
+  "published": true,
+  "commentsCount": 0,
+  "likedCount": 195,
+  "bodyLettersCount": 3523,
+  "readingTime": 3,
+  "articleType": "tech",
+  "emoji": "⛅",
+  "isSuspendingPrivate": false,
+  "publishedAt": "2022-01-09T23:43:10.132+09:00",
+  "bodyUpdatedAt": "2022-01-10T17:11:37.161+09:00",
+  "sourceRepoUpdatedAt": null,
+  "createdAt": "2022-01-08T15:48:36.262+09:00",
+  "updatedAt": "2022-01-10T18:45:17.429+09:00",
+  "user": {
+    "id": 2441,
+    "username": "adwd",
+    "name": "adwd",
+    "avatarSmallUrl": "https://res.cloudinary.com/zenn/image/fetch/s--w-zr84i6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_70/https://storage.googleapis.com/zenn-user-upload/avatar/06538ec133.jpeg"
+  },
+  "publication": null,
+  "topics": [
+    {
+      "id": 491,
+      "name": "フロントエンド",
+      "displayName": "フロントエンド",
+      "taggingsCount": 128,
+      "imageUrl": "https://storage.googleapis.com/zenn-user-upload/topics/742793a2fb.png"
+    }
+  ]
+}
